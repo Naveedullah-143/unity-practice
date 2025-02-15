@@ -1,0 +1,28 @@
+# Ignore Unity temporary files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Ignore auto-generated project files
+/.vs/
+/.vscode/
+/*.csproj
+/*.sln
+/*.suo
+/*.userprefs
+
+# Ignore asset caches
+/[Aa]ssets/[Aa]sset[Ss]tore*
+/[Aa]ssets/[Pp]lugins/
+
+# Ignore Unity crash logs
+/*.log
+/*.pid
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
